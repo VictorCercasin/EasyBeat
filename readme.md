@@ -20,16 +20,6 @@ This project is an ECG (Electrocardiogram) analysis tool developed in Python, us
     pip install -r requirements.txt
     ```
 
-    Example `requirements.txt`:
-    ```
-    PyQt5
-    wfdb
-    numpy
-    pandas
-    matplotlib
-    scipy
-    tensorflow
-    ```
 
 3. **Run the application:**
     Execute the following command to start the application:
